@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FoursquareApiDemo</string>
+    <string name="facebook_log_in">Log in With Facebook </string>
+
+    <string name="facebook_app_id">2275410635852919</string>
+    <string name="fb_login_protocol_scheme">fb2275410635852919</string>
+
+    <string name="gps_msg">GPS permission allows us to access location data. Please allow in App Settings for additional
+        functionality.
+    </string>
+    <string name="check_internet">Please Check your internet connection…!!</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "756867268051",
+    "firebase_url": "https://foursquaredemo-b186e.firebaseio.com",
+    "project_id": "foursquaredemo-b186e",
+    "storage_bucket": "foursquaredemo-b186e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756867268051:android:b6612f0675b2aca1",
+        "android_client_info": {
+          "package_name": "com.example.firebaseandfoursquareapidemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756867268051-pvlvbj25iq3g9rkopovc3t2agl3dfnf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseandfoursquareapidemo",
+            "certificate_hash": "f6a58e417d30ec4402cde8372d63fe5e016651af"
+          }
+        },
+        {
+          "client_id": "756867268051-umj8tn8hrpn8qpv4emmdh3rv97lne1d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcEwDk9yI8DqkQlmo1OrHlOc2Bhtv5_Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756867268051-umj8tn8hrpn8qpv4emmdh3rv97lne1d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
